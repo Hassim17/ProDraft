@@ -93,8 +93,3 @@ All synchronization and user presence is powered by **Liveblocks** and Lexical p
 -   Notifications for comments or mentions.
 -   Offline editing support.
 
----
-
-## 👨‍💻 Author & Credits
-
-Built by **Mohammed Hassim**
